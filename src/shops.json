@@ -1,179 +1,180 @@
 {
-    "shops":[
-{
-    "name":"Cotton & Chocolate Quilt Co",
-    "address":{
-    "street":"380 E Thousand Oaks Blvd",
-    "unit": null,
-    "city":"Thousand Oaks",
-    "state":"CA",
-    "zip":91360
-    },
-    "website":"http://www.cottonandchocolate.com/"
-},
-{
-    "name": "Quilting for Community",
-    "address":{
-    "street":"21706 Devonshire St.",
-    "unit": null,
-    "city":"Chatsworth",
-    "state":"CA",
-    "zip":91311
-    },
-    "website":"https://www.quiltingforcommunity.org/"
-},
-{
-    "name": "Quilt Emporium",
-    "address":{
-    "street":"4918 Topanga Canyon Blvd.",
-    "unit": null,
-    "city":"Woodland Hills",
-    "state":"CA",
-    "zip":91364
-    },
-    "website":"https://www.quiltemporium.com/"
-},
-{
-    "name": "Sewing Arts",
-    "address":{
-    "street":"2306 Cprinthorinth Ave.",
-    "unit": null,
-    "city":"Los Angeles",
-    "state":"CA",
-    "zip": 90064
-    },
-    "website":"http://www.sewingarts.com/"
-},
-{
-    "name":"Quilty Pleasures",
-    "address":"1555 Simi Town Center",
-    "unit":165,
-    "city":"Simi Valley",
-    "state":"CA",
-    "zip":93065,
-    "website":"https://www.quiltypleasuressimivalley.com/"
-},
-{
-    "name":"Orange Quilt Bee",
-    "address":{
-    "street":"628 E Katella Ave.",
-    "unit": null,
-    "city":"Orange",
-    "state":"CA",
-    "zip":92867
-    },
-    "website":"http://www.cottonandchocolate.com/"
-},
-{
-    "name":"The SewNSew",
-    "address":{
-    "street":"160 N Glendora Ave",
-    "unit": "E",
-    "city":"Glendora",
-    "state":"CA",
-    "zip":91741
-    },
-    "website":"http://www.cottonandchocolate.com/"
-},
-{
-    "name":"Cotton Gin Fabric",
-    "address":{
-    "street":"700 E. Redlands Blvd",
-    "unit": "Suite I",
-    "city":"Redlands",
-    "state":"CA",
-    "zip":92373
-    },
-    "website":"https://www.cottonginfabric.com/"
-},
-{
-    "name":"Easy Quilting Corner",
-    "address":{
-    "street":"1860 Chicago Ave.",
-    "unit": "G-11",
-    "city":"Riverside",
-    "state":"CA",
-    "zip":92507
-    },
-    "website":"http://www.easyquiltingcorner.com/"
-},
-{
-    "name":"Rye Canyon Supply Co.",
-    "address":{
-    "street":"28150 Ave Crocker",
-    "unit": "Suite 207",
-    "city":"Valencia",
-    "state":"CA",
-    "zip":91355
-    },
-    "website":"http://www.ryecanyonsupplyco.com/"
-},
-{
-    "name":"Sewing Nuts",
-    "address":{
-    "street":"23861 Newhall Ave.",
-    "unit": null,
-    "city":"Newhall",
-    "state":"CA",
-    "zip":91321
-    },
-    "website":"http://www.easyquiltingcorner.com/"
-},
-{
-    "name":"superbuzzy",
-    "address":{
-    "street":"1794 E. Main St.",
-    "unit": null,
-    "city":"Ventura",
-    "state":"CA",
-    "zip":93001
-    },
-    "website":"http://www.superbuzzy.com/"
-},
-{
-    "name":"M & L Fabrics Discount Store",
-    "address":{
-    "street":"3430 W. Ball Rd.",
-    "unit": null,
-    "city":"Anaheim",
-    "state":"CA",
-    "zip":92804
-    },
-    "website":"http://www.mandlfabricsdiscountstore.com/"
-},
-{
-    "name":"The Calico Cat",
-    "address":{
-    "street":"1223 Koko Head Ave.",
-    "unit": "Suite 1",
-    "city":"Honolulu",
-    "state":"HI",
-    "zip":96816
-    },
-    "website":"http://www.thecalicocathawaii.com/"
-},
-{
-    "name":"Hawaiian Fabrics",
-    "address":{
-    "street":"3207 Martha St.",
-    "unit": null,
-    "city":"Honolulu",
-    "state":"HI",
-    "zip":96815
-    },
-    "website":"https://www.hawaiianfabric.com/"
-},
-{
-    "name":"Kaimuki Dry Goods Ltd.",
-    "address":{
-    "street":"31144 10th Ave.",
-    "unit": "#100",
-    "city":"Honolulu",
-    "state":"HI",
-    "zip":96816
-    },
-    "website":"https://www.kaimukidrygoods.com/"
-}
+    "shops": [
+        {
+            "name": "Cotton & Chocolate Quilt Co",
+            "address": {
+                "street": "380 E Thousand Oaks Blvd",
+                "unit": null,
+                "city": "Thousand Oaks",
+                "state": "CA",
+                "zip": 91360
+            },
+            "website": "http://www.cottonandchocolate.com/"
+        },
+        {
+            "name": "Quilting for Community",
+            "address": {
+                "street": "21706 Devonshire St.",
+                "unit": null,
+                "city": "Chatsworth",
+                "state": "CA",
+                "zip": 91311
+            },
+            "website": "https://www.quiltingforcommunity.org/"
+        },
+        {
+            "name": "Quilt Emporium",
+            "address": {
+                "street": "4918 Topanga Canyon Blvd.",
+                "unit": null,
+                "city": "Woodland Hills",
+                "state": "CA",
+                "zip": 91364
+            },
+            "website": "https://www.quiltemporium.com/"
+        },
+        {
+            "name": "Sewing Arts",
+            "address": {
+                "street": "2306 Corinth Ave.",
+                "unit": null,
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": 90064
+            },
+            "website": "http://www.sewingarts.com/"
+        },
+        {
+            "name": "Quilty Pleasures",
+            "address": {
+                "street": "1555 Simi Town Center",
+                "unit": "165",
+                "city": "Simi Valley",
+                "state": "CA",
+                "zip": 93065
+            },
+            "website": "https://www.quiltypleasuressimivalley.com/"
+        },
+        {
+            "name": "Orange Quilt Bee",
+            "address": {
+                "street": "628 E Katella Ave.",
+                "unit": null,
+                "city": "Orange",
+                "state": "CA",
+                "zip": 92867
+            },
+            "website": "http://www.cottonandchocolate.com/"
+        },
+        {
+            "name": "The SewNSew",
+            "address": {
+                "street": "160 N Glendora Ave",
+                "unit": "E",
+                "city": "Glendora",
+                "state": "CA",
+                "zip": 91741
+            },
+            "website": "http://www.cottonandchocolate.com/"
+        },
+        {
+            "name": "Cotton Gin Fabric",
+            "address": {
+                "street": "700 E. Redlands Blvd",
+                "unit": "Suite I",
+                "city": "Redlands",
+                "state": "CA",
+                "zip": 92373
+            },
+            "website": "https://www.cottonginfabric.com/"
+        },
+        {
+            "name": "Easy Quilting Corner",
+            "address": {
+                "street": "1860 Chicago Ave.",
+                "unit": "G-11",
+                "city": "Riverside",
+                "state": "CA",
+                "zip": 92507
+            },
+            "website": "http://www.easyquiltingcorner.com/"
+        },
+        {
+            "name": "Rye Canyon Supply Co.",
+            "address": {
+                "street": "28150 Ave Crocker",
+                "unit": "Suite 207",
+                "city": "Valencia",
+                "state": "CA",
+                "zip": 91355
+            },
+            "website": "http://www.ryecanyonsupplyco.com/"
+        },
+        {
+            "name": "Sewing Nuts",
+            "address": {
+                "street": "23861 Newhall Ave.",
+                "unit": null,
+                "city": "Newhall",
+                "state": "CA",
+                "zip": 91321
+            },
+            "website": "http://www.easyquiltingcorner.com/"
+        },
+        {
+            "name": "superbuzzy",
+            "address": {
+                "street": "1794 E. Main St.",
+                "unit": null,
+                "city": "Ventura",
+                "state": "CA",
+                "zip": 93001
+            },
+            "website": "http://www.superbuzzy.com/"
+        },
+        {
+            "name": "M & L Fabrics Discount Store",
+            "address": {
+                "street": "3430 W. Ball Rd.",
+                "unit": null,
+                "city": "Anaheim",
+                "state": "CA",
+                "zip": 92804
+            },
+            "website": "http://www.mandlfabricsdiscountstore.com/"
+        },
+        {
+            "name": "The Calico Cat",
+            "address": {
+                "street": "1223 Koko Head Ave.",
+                "unit": "Suite 1",
+                "city": "Honolulu",
+                "state": "HI",
+                "zip": 96816
+            },
+            "website": "http://www.thecalicocathawaii.com/"
+        },
+        {
+            "name": "Hawaiian Fabrics",
+            "address": {
+                "street": "3207 Martha St.",
+                "unit": null,
+                "city": "Honolulu",
+                "state": "HI",
+                "zip": 96815
+            },
+            "website": "https://www.hawaiianfabric.com/"
+        },
+        {
+            "name": "Kaimuki Dry Goods Ltd.",
+            "address": {
+                "street": "31144 10th Ave.",
+                "unit": "#100",
+                "city": "Honolulu",
+                "state": "HI",
+                "zip": 96816
+            },
+            "website": "https://www.kaimukidrygoods.com/"
+        }
     ]
-    
 }
